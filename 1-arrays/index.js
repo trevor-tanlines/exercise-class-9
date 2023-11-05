@@ -45,3 +45,5 @@ console.log(bakingRecipies);
 
   console.table(schedule);
   console.log( `I am taking ${courseNumber}, ${courseName} that is worth ${courseCredits}. `);
+
+  
